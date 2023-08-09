@@ -16,6 +16,12 @@ Several packages are required to make the whole code work as follow.The deployme
 4. pass the video path to `main.py` for now. Later the signal will be live feed. 
 
 
+### Vehicle Detection
+After cloning this repository, install the required Python packages using the code below.
+- `pip install -r requirements.txt `
+
+Also, install the `mftracker` package using the following link.
+    <br> `https://github.com/jayrambhia/MFTracker/archive/master.zip`
 ### Papers about this work:
 
 @article{pi2022visual,
